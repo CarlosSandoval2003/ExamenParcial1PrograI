@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//Carlos Javier Sandoval Catalan, Carnet No. 9959-21-1324
 //Se le asigna a N el valor de 3
 #define N 3
 int main()
